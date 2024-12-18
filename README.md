@@ -6,7 +6,7 @@
 
 <p><img align="right" src="https://github.com/jafarihp/jafarihp/blob/main/assets/dev1.gif" alt="MohammadReza" /></p>
 
-- 🌱 Frontend Developer : I’m currently learning HTML, CSS and JavaScript and i'm coding my ideas.
+- 🌱 Frontend Developer : I’m currently delving deeper into learning JavaScript and the React library.
 
 - 📫 How to reach me **mohammadreza.jafari.hp@gmail.com**
 
