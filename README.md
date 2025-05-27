@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👨🏻‍💻, I'm MohammadReza Jafari</h1>
 
-<img src="https://github.com/jafarihp/jafarihp/blob/main/assets/programming.png" width="100%" height="300vh"/>
+<img src="https://github.com/jafarihp/jafarihp/blob/main/assets/JS%20Coding.gif" width="100%" height="450vh"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=IT+Engineer)](https://git.io/typing-svg)
 
