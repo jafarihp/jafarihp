@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=IT+Engineer)](https://git.io/typing-svg)
 
-<p><img align="right" src="https://github.com/jafarihp/jafarihp/blob/main/assets/programmer_1.gif" width="50%" height="400vh" alt="MohammadReza" /></p>
+<p><img align="right" src="https://github.com/jafarihp/jafarihp/blob/main/assets/programmer_1.gif" width="35%" height="250vh" alt="MohammadReza" /></p>
 
 - 🌱 Frontend Developer : I’m currently delving deeper into learning JavaScript and the React library.
 
